@@ -1,5 +1,4 @@
 
-
 ###Helpful Notes
 ```
 Wine is much better than the public opinion. They
@@ -11,25 +10,26 @@ Archive formats are provided by most good distros via File-Roller (e.g ubuntu) o
 
 ##The List
 
-| Windows                     | Linux Apps                |
-| --------------------------- |---------------------------|
+| Windows                     | Linux Apps                |          |          |
+| --------------------------- |---------------------------|----------|----------|
 |Browsers                     |[Browsers](#browsers)      |
 |Photoshop                    |GIMP                       |
 |Ms.Paint                     |KolourPaint                |
 |Paint.NET                    |Pinta                      |
 |FlashEditor                  |Inkscape + Animation Plugin|
-|MSOffice                     |LibreOffice/OpenOffice     |
+|MSOffice                     |LibreOffice                |OpenOffice|
 |Flash                        |Flash                      |
+|.Net Programming             |Mono                       |
 |MSVisualC#/VBA               |MonoDevelop                |
 |MSVisualAnythingElse         |Eclipse                    |
 |Notepad                      |nano                       |
-|Notepad++                    |Gedit + Plugins / Kate     |
+|Notepad++                    |Gedit + Plugins            |Kate      |
 |Utorrent                     |qbittorrent                |
-|Windows Media Player/Itunes  |Banshee/Clementine         |
+|Windows Media Player/Itunes  |Banshee                    |Clementine|Rhythmbox|
 |Realplayer/WMP               |VLC                        |
 |WinAmp                       |Audacious                  |
 |Windows Media Center         |XBMC                       |
-|Outlook                      |Thunderbird/Evolution      |
+|Outlook                      |Thunderbird                |Evolution |
 |Adobe Lightroom              |Darktable                  |
 |max3d/Maya                   |Blender                    |
 |Googledrive                  |GDrive                     |
