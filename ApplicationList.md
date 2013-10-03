@@ -1,4 +1,3 @@
-
 ###Helpful Notes
 ```
 Wine is much better than the public opinion. They
@@ -7,6 +6,12 @@ run almost natively. Check the WineDB before giving up ;)
  
 Archive formats are provided by most good distros via File-Roller (e.g ubuntu) or Ark(e.g KDE)
 ```
+
+
+###Applications that qualify to be listed as Windows-Only
+ * Do not support linux (by support it means all major distros)
+ * Planning to support but not yet (likely a beta will follow substandard to the windows alterative)
+ * Applications that once supported linux but havn't updated the code/binaries for linux within a good amount of time
 
 ##The List
 
