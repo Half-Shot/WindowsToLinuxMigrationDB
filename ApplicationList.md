@@ -1,6 +1,5 @@
 
 
-
 ###Helpful Notes
 ```
 Wine is much better than the public opinion. They
@@ -34,7 +33,7 @@ Archive formats are provided by most good distros via File-Roller (e.g ubuntu) o
 |Adobe Lightroom              |Darktable                  |
 |max3d/Maya                   |Blender                    |
 |Googledrive                  |GDrive                     |
-|Anything Else                |WineIt!                    |
+|Anything Else                |[WineIt!](#wine)           |
 
 ##Applications
 
@@ -44,3 +43,10 @@ Archive formats are provided by most good distros via File-Roller (e.g ubuntu) o
 For the most part browsers work exactly like the ones found on Windows.
 Chromium is a less-feature rich but more stable verion of chrome which is open source.
   
+###Wine
+<a id="wine"></a>
+Wine stands for Wine Is Not an Emulator; Simply put, it means that you can fake a windows system to the
+application which then converts that to something linux can understand. But as with all software there
+is no 100% compatibility and wine at its currrent state (1.7) is better at older apps than newer ones.
+Check the Wine [AppDB](http://appdb.winehq.org/) for more info on this.
+
