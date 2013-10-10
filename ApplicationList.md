@@ -29,9 +29,9 @@ Archive formats are provided by most good distros via File-Roller (e.g ubuntu) o
 |MSVisualAnythingElse         |Eclipse                    |
 |Notepad                      |nano                       |
 |Notepad++                    |Gedit + Plugins            |Kate      |
-|Utorrent                     |qbittorrent                |
+|Utorrent                     |qbittorrent                |transmission
 |Windows Media Player/Itunes  |Banshee                    |Clementine|Rhythmbox|
-|Realplayer/WMP               |VLC                        |
+|Realplayer/WMP               |VLC                        |mplayer
 |WinAmp                       |Audacious                  |
 |Windows Media Center         |XBMC                       |
 |Outlook                      |Thunderbird                |Evolution |
